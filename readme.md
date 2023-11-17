@@ -15,14 +15,8 @@ Follow these steps to run the application on your local machine.
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   ```
-
-   ```bash
-   cd your-repository
-   ```
-
-   ```bash
+   git clone https://github.com/rounak610/question_paper_generator.git
+   cd question_paper_generator
    npm install
    ```
 
@@ -54,7 +48,6 @@ Follow these steps to run the application on your local machine.
 
     ```bash
     curl -X POST -H "Content-Type: application/json" -d '{"totalMarks":100,"distribution":[{"difficulty":"Easy","percentage":20},{"difficulty":"Medium","percentage":50},{"difficulty":"Hard","percentage":30}]}' http://localhost:3000/generateQuestionPaper
-
     ```
 
 3. Stop the server when you're done.
