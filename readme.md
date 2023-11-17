@@ -27,7 +27,7 @@ Follow these steps to run the application on your local machine.
 
    This will start the server, and you should see a message indicating that the server is running on http://localhost:3000.
 
-2. Open your browser or use a tool like Postman to interact with the API. To generate a question paper, send a POST request to http://localhost:3000/ generateQuestionPaper with the appropriate JSON body. For example:
+2. Open your browser or use a tool like Postman to interact with the API. To generate a question paper, send a POST request to http://localhost:3000/generateQuestionPaper with the appropriate JSON body. For example:
 
 ```json
 {
