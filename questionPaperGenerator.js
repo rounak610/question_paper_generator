@@ -3,6 +3,14 @@ class QuestionPaperGenerator {
     this.questionStore = questionStore;
   }
 
+  /*
+  Handling edge cases:
+    If we have two question of difficulty level "easy"
+    eg: Qa, easy, score:5
+        Qb, easy, score:16
+    and the required marks for easy questions is 20
+    then only one of the questions will be selected.
+  */
   generateQuestionPaper(totalMarks, distribution) {
     const questionPaper = [];
 
