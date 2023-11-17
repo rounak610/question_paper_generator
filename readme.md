@@ -13,7 +13,7 @@ Follow these steps to run the application on your local machine.
    ```bash
    git clone https://github.com/rounak610/question_paper_generator.git
    cd question_paper_generator
-   npm install
+   npm install express body-parser path
    ```
 
 ### Running the Application

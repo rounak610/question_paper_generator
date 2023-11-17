@@ -1,136 +1,135 @@
 [
-    {
-      "question": "What is the speed of light?",
-      "subject": "Physics",
-      "topic": "Waves",
-      "difficulty": "Easy",
-      "marks": 5
-    },
-    {
-      "question": "Who discovered penicillin?",
-      "subject": "Biology",
-      "topic": "Medicine",
-      "difficulty": "Medium",
-      "marks": 10
-    },
-    {
-      "question": "What is the capital of France?",
-      "subject": "Geography",
-      "topic": "Countries",
-      "difficulty": "Medium",
-      "marks": 8
-    },
-    {
-      "question": "Solve for x: 2x + 5 = 15",
-      "subject": "Mathematics",
-      "topic": "Algebra",
-      "difficulty": "Hard",
-      "marks": 15
-    },
-    {
-      "question": "Who wrote 'To Kill a Mockingbird'?",
-      "subject": "Literature",
-      "topic": "Modern Classics",
-      "difficulty": "Medium",
-      "marks": 12
-    },
-    {
-      "question": "What is the powerhouse of the cell?",
-      "subject": "Biology",
-      "topic": "Cell Biology",
-      "difficulty": "Easy",
-      "marks": 6
-    },
-    {
-      "question": "In which year did World War II end?",
-      "subject": "History",
-      "topic": "World War II",
-      "difficulty": "Medium",
-      "marks": 10
-    },
-    {
-      "question": "What is the largest planet in our solar system?",
-      "subject": "Astronomy",
-      "topic": "Planets",
-      "difficulty": "Easy",
-      "marks": 8
-    },
-    {
-      "question": "What is the chemical symbol for gold?",
-      "subject": "Chemistry",
-      "topic": "Elements",
-      "difficulty": "Hard",
-      "marks": 18
-    },
-    {
-      "question": "Who developed the theory of relativity?",
-      "subject": "Physics",
-      "topic": "Theoretical Physics",
-      "difficulty": "Hard",
-      "marks": 20
-    },
-    {
-      "question": "What is the capital of Japan?",
-      "subject": "Geography",
-      "topic": "Countries",
-      "difficulty": "Easy",
-      "marks": 7
-    },
-    {
-      "question": "Who painted the Mona Lisa?",
-      "subject": "Art",
-      "topic": "Renaissance",
-      "difficulty": "Medium",
-      "marks": 13
-    },
-    {
-      "question": "What is the square root of 144?",
-      "subject": "Mathematics",
-      "topic": "Arithmetic",
-      "difficulty": "Easy",
-      "marks": 9
-    },
-    {
-      "question": "Who is known as the 'Father of Computer Science'?",
-      "subject": "Computer Science",
-      "topic": "History of Computing",
-      "difficulty": "Hard",
-      "marks": 16
-    },
-    {
-      "question": "What is the largest mammal?",
-      "subject": "Biology",
-      "topic": "Animals",
-      "difficulty": "Medium",
-      "marks": 11
-    },
-    {
-      "question": "What is the currency of Brazil?",
-      "subject": "Economics",
-      "topic": "Currencies",
-      "difficulty": "Easy",
-      "marks": 7
-    },
-    {
-      "question": "Who wrote 'Romeo and Juliet'?",
-      "subject": "Literature",
-      "topic": "Shakespeare",
-      "difficulty": "Medium",
-      "marks": 14
-    },
-    {
-      "question": "What is the boiling point of water in Celsius?",
-      "subject": "Chemistry",
-      "topic": "Physical Chemistry",
-      "difficulty": "Easy",
-      "marks": 6
-    },
-    {
-      "question": "Who won the Nobel Prize in Physics in 2020?",
-      "subject": "Physics",
-      "topic": "Nobel Laureates",
-      "difficulty": "Hard",
-      "marks": 19
-    }
-  ]
-  
+  {
+    "question": "What is the speed of light?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "subject": "Biology",
+    "topic": "Medicine",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the capital of France?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Solve for x: 2x + 5 = 15",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "subject": "Literature",
+    "topic": "Modern Classics",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "In which year did World War II end?",
+    "subject": "History",
+    "topic": "World War II",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "subject": "Astronomy",
+    "topic": "Planets",
+    "difficulty": "Easy",
+    "marks": 8
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Hard",
+    "marks": 18
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "subject": "Physics",
+    "topic": "Theoretical Physics",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "subject": "Geography",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 7
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "subject": "Art",
+    "topic": "Renaissance",
+    "difficulty": "Medium",
+    "marks": 13
+  },
+  {
+    "question": "What is the square root of 144?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 9
+  },
+  {
+    "question": "Who is known as the 'Father of Computer Science'?",
+    "subject": "Computer Science",
+    "topic": "History of Computing",
+    "difficulty": "Hard",
+    "marks": 16
+  },
+  {
+    "question": "What is the largest mammal?",
+    "subject": "Biology",
+    "topic": "Animals",
+    "difficulty": "Medium",
+    "marks": 11
+  },
+  {
+    "question": "What is the currency of Brazil?",
+    "subject": "Economics",
+    "topic": "Currencies",
+    "difficulty": "Easy",
+    "marks": 7
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "subject": "Literature",
+    "topic": "Shakespeare",
+    "difficulty": "Medium",
+    "marks": 14
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "subject": "Chemistry",
+    "topic": "Physical Chemistry",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "Who won the Nobel Prize in Physics in 2020?",
+    "subject": "Physics",
+    "topic": "Nobel Laureates",
+    "difficulty": "Hard",
+    "marks": 19
+  }
+]
