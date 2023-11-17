@@ -6,10 +6,6 @@ This is a simple Node.js application for generating question papers based on a s
 
 Follow these steps to run the application on your local machine.
 
-### Prerequisites
-
-- Node.js installed on your machine. You can download it [here](https://nodejs.org/).
-
 ### Installation
 
 1. Clone the repository to your local machine.
@@ -31,6 +27,7 @@ Follow these steps to run the application on your local machine.
    This will start the server, and you should see a message indicating that the server is running on http://localhost:3000.
 
 2. Open your browser or use a tool like Postman to interact with the API. To generate a question paper, send a POST request to http://localhost:3000/        generateQuestionPaper with the appropriate JSON body. For example:
+```
     {
   "totalMarks": 100,
   "distribution": [
@@ -39,7 +36,7 @@ Follow these steps to run the application on your local machine.
     { "difficulty": "Hard", "percentage": 30 }
     ]
     }
-
+```
     OR
 
     You can send a curl request:
