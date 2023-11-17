@@ -1,6 +1,7 @@
 # Question Paper Generator
 
 This is a simple Node.js application for generating question papers based on a specified distribution of marks across difficulty levels.
+The questions are stored in a JSON file named `questions.json`.
 
 ## Getting Started
 
