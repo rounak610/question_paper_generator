@@ -29,23 +29,21 @@ Follow these steps to run the application on your local machine.
 
 2. You can use the terminal or a tool like Postman to interact with the API. To generate a question paper, send a POST request to http://localhost:3000/generateQuestionPaper with the appropriate JSON body. For example:
 
-```json
-{
-  "totalMarks": 100,
-  "distribution": [
-    { "difficulty": "Easy", "percentage": 20 },
-    { "difficulty": "Medium", "percentage": 50 },
-    { "difficulty": "Hard", "percentage": 30 }
-  ]
-}
-```
+   ```json
+   {
+     "totalMarks": 100,
+     "distribution": [
+       { "difficulty": "Easy", "percentage": 20 },
+       { "difficulty": "Medium", "percentage": 50 },
+       { "difficulty": "Hard", "percentage": 30 }
+     ]
+   }
+   ```
 
-OR
-
-You can send a curl request:
-
-```bash
-curl -X POST -H "Content-Type: application/json" -d '{"totalMarks":100,"distribution":[{"difficulty":"Easy","percentage":20},{"difficulty":"Medium","percentage":50},{"difficulty":"Hard","percentage":30}]}' http://localhost:3000/generateQuestionPaper
-```
-
-3. Stop the server when you're done. Press Ctrl + C in the terminal where the server is running.
+   OR
+   
+   You can also send a curl request:
+   
+   ```bash
+   curl -X POST -H "Content-Type: application/json" -d '{"totalMarks":100,"distribution":[{"difficulty":"Easy","percentage":20},{"difficulty":"Medium","percentage":50},{"difficulty":"Hard","percentage":30}]}' http://localhost:3000/generateQuestionPaper
+   ```
